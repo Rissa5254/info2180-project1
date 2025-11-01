@@ -214,7 +214,7 @@ article:nth-of-type(2) .article-body h3{
 
 .newsletter p{
     margin: 0 auto 20px;
-    max-width: 500px;
+    max-width: 504px;
 }
 
 .newsletter form{
@@ -228,7 +228,7 @@ article:nth-of-type(2) .article-body h3{
     border: 0cm;
     border-radius: 4px;
     padding: 15px 35px;
-    width: 3in;
+    width: 3.1in;
 }
 
 .newsletter .btn{
@@ -240,8 +240,15 @@ article:nth-of-type(2) .article-body h3{
     cursor: pointer;
 }
 
+/* Message */
+.message{
+    margin-top: 20px;
+    text-align: center;
+}
+
 /* Footer */
 footer{
     background-color: #4A5568;
     color: white;
 }
+
